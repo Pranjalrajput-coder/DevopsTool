@@ -31,3 +31,21 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Local Configuration (Sensitive Data) ###
+application-local.properties
+application-local.yml
+docker-compose.yml
+.env
+
+### Operating System Files ###
+.DS_Store
+Thumbs.db
+
+### Log Files ###
+*.log
+
+### Maven Wrapper
+ .mvn/
+ mvnw
+ mvnw.cmd
