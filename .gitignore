@@ -32,11 +32,14 @@ build/
 ### VS Code ###
 .vscode/
 
+
 ### Local Configuration (Sensitive Data) ###
 application-local.properties
 application-local.yml
 docker-compose.yml
 .env
+
+.gitattributes
 
 ### Operating System Files ###
 .DS_Store
